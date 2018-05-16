@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;readthedc&apos; to &apos;readthedoc&apos;&#x0D;&#x0A;- Original project: &apos;readAAdharAndCertificate&apos;&#x0D;&#x0A;- Original element: &apos;readAAdharAndCertificate/src/readthedc&apos;&#x0D;&#x0A;- Renamed element: &apos;readAAdharAndCertificate/src/readthedoc&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;readthedc&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;readthedc" name="readthedoc" qualified="false" references="true" stamp="1518198507724" textual="false" version="1.0"/>
+</session>

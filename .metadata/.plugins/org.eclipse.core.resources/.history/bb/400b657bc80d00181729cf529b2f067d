@@ -1,0 +1,8 @@
+package readthedoc;
+
+public class readDataFromAAdharAndCertificate {
+
+	public static void main (String args[]) {
+		
+	}
+}
